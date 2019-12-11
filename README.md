@@ -1,2 +1,2 @@
 # sparktag
-bidatabase tag use by spark
+bigdatabase tag use by spark
